@@ -1,2 +1,3 @@
 Rebase changes
 Merge changes
+This will result in conflict
